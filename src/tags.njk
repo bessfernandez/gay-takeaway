@@ -18,12 +18,12 @@ permalink: /tags/{{ tag }}/
 {% extends 'layouts/base.njk' %}
 
 {# Intro content #}
-{% set introHeading %}Posts filed under “{{ tag }}”{% endset %}
+{% set introHeading %}Reviews filed under “{{ tag }}”{% endset %}
 {% set introHeadingLevel = '2' %}
 
 {# Post list content #}
 {% set postListHeadingLevel = '2' %}
-{% set postListHeading = 'Posts' %}
+{% set postListHeading = 'Related Reviews' %}
 {% set postListItems = collections[tag] %}
 
 {% block content %}

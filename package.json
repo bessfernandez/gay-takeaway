@@ -1,7 +1,7 @@
 {
-  "name": "hylia",
+  "name": "gay-takeaway",
   "version": "0.7.0",
-  "description": "A simple Eleventy starter kit to help you have a blog of your own",
+  "description": "Gay Takeaway - a blog of food reviews from all your gay friends",
   "main": "index.js",
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
@@ -40,13 +40,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hankchizljaw/hylia.git"
+    "url": "https://github.com/bessfernandez/gay-takeaway.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hankchizljaw/hylia/issues"
+    "url": "https://github.com/bessfernandez/gay-takeaway/issues"
   },
-  "homepage": "https://github.com/hankchizljaw/hylia#readme"
+  "homepage": "https://github.com/bessfernandez/gay-takeaway#readme"
 }
