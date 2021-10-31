@@ -1,11 +1,10 @@
-# Gay Takeaway
+# Gay Takeaway 🍽
 
-Food reviews. By all your gay friends.
-
+Food reviews. Brought to you by all your gay friends.
 
 ## Tech stack
 
-Eleventy with initial setup thanks to this here [Eleventy starter kit by Andy Piccalili](https://github.com/andy-piccalilli/hylia).
+Eleventy with initial setup thanks to the [Eleventy starter kit by Andy Piccalili](https://github.com/andy-piccalilli/hylia).
 
 Netlify runs the things.
 
