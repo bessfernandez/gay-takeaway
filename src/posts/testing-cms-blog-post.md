@@ -8,10 +8,6 @@ tags: []
 ---
 ## Trying a new post
 
-
-
 > Easy peasy
 
 Now with extra fun
-
-![]()
