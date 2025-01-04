@@ -1,3 +1,9 @@
 [build]
   command = "npm run production"
   publish = "dist"
+
+[[redirects]]
+    from = "/*"
+    to = "https://gaytakeaway.substack.com"
+    status = 301
+    force = true
